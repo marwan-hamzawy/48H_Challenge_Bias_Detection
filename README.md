@@ -2,7 +2,7 @@
 
 # 🧠 Bias Detection & Explainability in AI Hiring Models
 
-⚠️⚠️ **Important Note on Dataset Format vs Challenge Context** ⚠️⚠️
+#⚠️⚠️ **Important Note on Dataset Format vs Challenge Context** ⚠️⚠️
 -- The dataset provided with the challenge was fully numerical and did not include any text fields (e.g., resume summaries or cover letters) as described in the challenge context. Therefore, we applied suitable tabular modeling techniques (Random Forest and XGBoost) and conducted fairness and explainability analysis accordingly, within the limits of the data format.
 
 ## 🚀 Challenge Overview
